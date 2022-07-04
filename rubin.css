@@ -1,0 +1,16 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.orange-colour{
+    color: orange;
+}
+.first-section{
+    display: flex;
+}
+.fifty-percent{
+    width: 50%;
+    padding: 5%;
+}
+.fifty-percent img{
+    width: 70%;
+}
