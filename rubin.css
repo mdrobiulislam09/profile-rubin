@@ -1,11 +1,15 @@
 body{
     font-family: 'Oswald', sans-serif;
+    margin: 0;
 }
 .orange-colour{
     color: orange;
 }
 .first-section{
     display: flex;
+    background-image: url(images/top-banner.png);
+    background-position: left;
+    background-repeat: no-repeat;
 }
 .fifty-percent{
     width: 50%;
@@ -22,3 +26,8 @@ body{
     font-weight: 800;
     color: darkorange;
 }
+.second-section{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
