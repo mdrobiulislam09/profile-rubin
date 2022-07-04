@@ -15,9 +15,10 @@ body{
     width: 70%;
 }
 .call-me{
-    color: antiquewhite;
-    background-color: brown;
     text-decoration: none;
     padding: 5px 20px;
     border-radius: 5px;
+    background-image: radial-gradient(green, red);
+    font-weight: 800;
+    color: darkorange;
 }
