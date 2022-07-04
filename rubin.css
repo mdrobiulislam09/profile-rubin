@@ -14,3 +14,10 @@ body{
 .fifty-percent img{
     width: 70%;
 }
+.call-me{
+    color: antiquewhite;
+    background-color: brown;
+    text-decoration: none;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
